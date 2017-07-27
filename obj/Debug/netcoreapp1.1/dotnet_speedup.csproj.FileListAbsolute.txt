@@ -1,0 +1,8 @@
+/Users/nellysattari/git/dotnet_speedup/bin/Debug/netcoreapp1.1/dotnet_speedup.deps.json
+/Users/nellysattari/git/dotnet_speedup/bin/Debug/netcoreapp1.1/dotnet_speedup.runtimeconfig.json
+/Users/nellysattari/git/dotnet_speedup/bin/Debug/netcoreapp1.1/dotnet_speedup.runtimeconfig.dev.json
+/Users/nellysattari/git/dotnet_speedup/bin/Debug/netcoreapp1.1/dotnet_speedup.dll
+/Users/nellysattari/git/dotnet_speedup/bin/Debug/netcoreapp1.1/dotnet_speedup.pdb
+/Users/nellysattari/git/dotnet_speedup/obj/Debug/netcoreapp1.1/dotnet_speedup.AssemblyInfo.cs
+/Users/nellysattari/git/dotnet_speedup/obj/Debug/netcoreapp1.1/dotnet_speedup.dll
+/Users/nellysattari/git/dotnet_speedup/obj/Debug/netcoreapp1.1/dotnet_speedup.pdb
